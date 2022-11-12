@@ -21,16 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **futuristuche@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/futuristicbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="futuristicbro" height="30" width="40" /></a>
-<a href="https://dev.to/futuristicbro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tobithedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/futuristicbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="futuristicbro" height="30" width="40" /></a>
-<a href="https://instagram.com/futuristicbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="futuristicbro" height="30" width="40" /></a>
-<a href="https://twitter.com/futuristicbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="futuristicbro" height="30" width="40" /></a>
- <a href="https://www.facebook.com/futuristicbro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@futuristicbro" height="30" width="40" /></a>
-</p>
-
 
 
 
