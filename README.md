@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on **Outstanding Projects**
 
 - 💬 Ask me about **Bukrida & Inhoods**
-- ✔ i work with JavaScript ,  jQuery , React Native , React , Vue , MySQL , PostgreSQL , JSON , MongoDB , PHP(Laravel) , Node.JS , express.JS , Tailwind CSS , Firebase
+- ✔ i work with JavaScript ,  jQuery , React Native , React , Vue ,TailwindCSS , PostgreSQL , JSON , MongoDB , Node.JS , express.JS , Firebase
 
 - 📫 How to reach me **futuristuche@gmail.com**
 
