@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://wakatime.com/6e756d04-b70f-4fd8-a924-6d60d3aa1bda"><img src="https://wakatime.com/badge/user/6e756d04-b70f-4fd8-a924-6d60d3aa1bda.svg" alt="Total time coded since Nov 6 2022" /></a>
 
+![image](https://user-images.githubusercontent.com/107319859/210287286-b5f993a1-7197-40f1-ad09-a17cab0ba547.png)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=futuristicbro" alt="futuristicbro" /></a> </p>
 
 - 🔭 I’m currently working on **Revvanew** & **PodCuss**
