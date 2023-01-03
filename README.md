@@ -2,11 +2,6 @@
 futuristicbro/futuristicbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  --root{
-  background-color:lightgreen;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Idolo(<b>Prosper Uche</b>)</h1>
 <h3 align="center">I'm A Passionate Software Developer</h3>
 
