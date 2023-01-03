@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futuristicbro&label=Profile%20views&color=0e75b6&style=flat" alt="futuristicbro" /> </p>
 
-<a href="https://wakatime.com/@6e756d04-b70f-4fd8-a924-6d60d3aa1bda"><img src="https://wakatime.com/badge/user/6e756d04-b70f-4fd8-a924-6d60d3aa1bda.svg" alt="Total time coded since Nov 6 2022" /></a>
+<a href="https://wakatime.com/@waka_d963b93c-db67-4de3-8142-d3991a909680"><img src="https://wakatime.com/badge/user/6e756d04-b70f-4fd8-a924-6d60d3aa1bda.svg" alt="Total time coded since Nov 6 2022" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=futuristicbro" alt="futuristicbro" /></a> </p>
 
