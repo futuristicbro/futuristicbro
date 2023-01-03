@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **[Flutter](https://flutter.dev)**
 - 👯 I’m looking to work on amazing projects
 - 💬 Ask me about **Revvanew & Podcuss**
-- ✔ i work with JavaScript ,  jQuery ,  Vue.js ,TailwindCSS , JSON , MongoDB , Node.JS , express.JS , Firebase , Flutter 
+- ✔ i work with JavaScript ,  Vue.js ,TailwindCSS, MongoDB , express.JS , Flutter 
 
 - 📫 How to reach me **july29inc@gmail.com**
 
